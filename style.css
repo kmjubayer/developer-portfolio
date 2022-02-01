@@ -1,7 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0%;
-    color: ivory;
+    color: cornsilk;
 }
 h1{
     font-size: 50px;
@@ -10,8 +10,12 @@ h1{
 .orange{
     color: orange;
 }
+.red{
+    color: red;
+}
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -31,4 +35,7 @@ section{
 .top-banner{
     background-image: url(images/military-vector-illustration-army-background-260nw-1390816496.jpg);
     background-repeat:initial;
+}
+.dream-big{
+    background-image: url(images/360_F_109268924_hox8WsB9RkBQdEa4StoBdwOhEAZ68R2f.jpg);
 }
